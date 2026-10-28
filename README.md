@@ -1,5 +1,18 @@
 # Remotion video
 
+## Kordify reels
+
+Open `npm run dev` and select **KordifyMapReel** for the Dispatch + Live Technician Map reel. **KordifyReel** remains the original product reel. Both use the shared brand theme in `src/brand.ts`.
+
+The map reel keeps every approved voiceover line; its duration follows measured narration, as requested. Voice, music, effects and safe-zone overlays are adjustable in Studio.
+
+- Preview: http://localhost:3000/KordifyMapReel
+- Checks: `npm run lint`
+- Scene stills: `npm run review:map`
+- MP4 export: `npm run render:map`
+- Production details and missing assets: [docs/production-status.md](docs/production-status.md)
+
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>

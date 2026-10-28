@@ -1,0 +1,17 @@
+{
+  "lock": {
+    "path": "audio/proof-lock.wav",
+    "durationInFrames": 7,
+    "seconds": 0.22
+  },
+  "shutter": {
+    "path": "audio/proof-shutter.wav",
+    "durationInFrames": 9,
+    "seconds": 0.3
+  },
+  "pen": {
+    "path": "audio/proof-pen.wav",
+    "durationInFrames": 30,
+    "seconds": 1.0
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "1": [
+    {
+      "text": "\"You",
+      "startMs": 220.0,
+      "endMs": 360.0,
+      "timestampMs": 220.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "didn't",
+      "startMs": 360.0,
+      "endMs": 580.0,
+      "timestampMs": 360.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "do",
+      "startMs": 580.0,
+      "endMs": 840.0,
+      "timestampMs": 580.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "that.\"",
+      "startMs": 840.0,
+      "endMs": 1160.0,
+      "timestampMs": 840.0,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Prove",
+      "startMs": 1160.0,
+      "endMs": 1520.0,
+      "timestampMs": 1160.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "it.",
+      "startMs": 1520.0,
+      "endMs": 2300.0,
+      "timestampMs": 1520.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "2": [
+    {
+      "text": "Cleaning.",
+      "startMs": 300.0,
+      "endMs": 1260.0,
+      "timestampMs": 300.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "HVAC.",
+      "startMs": 1260.0,
+      "endMs": 2960.0,
+      "timestampMs": 1260.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "Same",
+      "startMs": 2960.0,
+      "endMs": 3420.0,
+      "timestampMs": 2960.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "argument.",
+      "startMs": 3420.0,
+      "endMs": 3766.666666666667,
+      "timestampMs": 3420.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "3": [
+    {
+      "text": "Job",
+      "startMs": 473.33333333333303,
+      "endMs": 813.333333333333,
+      "timestampMs": 473.33333333333303,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "done.",
+      "startMs": 813.333333333333,
+      "endMs": 1713.333333333333,
+      "timestampMs": 813.333333333333,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "Customer",
+      "startMs": 1713.333333333333,
+      "endMs": 2013.333333333333,
+      "timestampMs": 1713.333333333333,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "says",
+      "startMs": 2013.333333333333,
+      "endMs": 2453.333333333333,
+      "timestampMs": 2013.333333333333,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "no.",
+      "startMs": 2453.333333333333,
+      "endMs": 2866.666666666667,
+      "timestampMs": 2453.333333333333,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "4": [
+    {
+      "text": "You",
+      "startMs": 1226.666666666666,
+      "endMs": 1586.666666666666,
+      "timestampMs": 1226.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "decide",
+      "startMs": 1586.666666666666,
+      "endMs": 1746.666666666666,
+      "timestampMs": 1586.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "what's",
+      "startMs": 1746.666666666666,
+      "endMs": 2346.666666666666,
+      "timestampMs": 1746.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "mandatory",
+      "startMs": 2346.666666666666,
+      "endMs": 2800.0,
+      "timestampMs": 2346.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "5": [
+    {
+      "text": "Can't",
+      "startMs": 786.6666666666661,
+      "endMs": 968.6666666666661,
+      "timestampMs": 786.6666666666661,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "close",
+      "startMs": 968.6666666666661,
+      "endMs": 1124.666666666666,
+      "timestampMs": 968.6666666666661,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "the",
+      "startMs": 1124.666666666666,
+      "endMs": 1306.666666666666,
+      "timestampMs": 1124.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "job",
+      "startMs": 1306.666666666666,
+      "endMs": 1626.666666666666,
+      "timestampMs": 1306.666666666666,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "until",
+      "startMs": 1626.666666666666,
+      "endMs": 1766.666666666666,
+      "timestampMs": 1626.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "it's",
+      "startMs": 1766.666666666666,
+      "endMs": 2106.666666666666,
+      "timestampMs": 1766.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "done",
+      "startMs": 2106.666666666666,
+      "endMs": 2366.666666666667,
+      "timestampMs": 2106.666666666666,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "6": [
+    {
+      "text": "Before",
+      "startMs": 380.0,
+      "endMs": 600.0,
+      "timestampMs": 380.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "+",
+      "startMs": 600.0,
+      "endMs": 800.0,
+      "timestampMs": 600.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "after",
+      "startMs": 800.0,
+      "endMs": 1300.0,
+      "timestampMs": 800.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "photos,",
+      "startMs": 1300.0,
+      "endMs": 1960.0,
+      "timestampMs": 1300.0,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "time",
+      "startMs": 1960.0,
+      "endMs": 2302.0,
+      "timestampMs": 1960.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "and",
+      "startMs": 2302.0,
+      "endMs": 2644.0,
+      "timestampMs": 2302.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "place",
+      "startMs": 2644.0,
+      "endMs": 2815.0,
+      "timestampMs": 2644.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "stamped",
+      "startMs": 2815.0,
+      "endMs": 3433.3333333333335,
+      "timestampMs": 2815.0,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "7": [
+    {
+      "text": "Customer",
+      "startMs": 606.6666666666642,
+      "endMs": 966.6666666666642,
+      "timestampMs": 606.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "signs",
+      "startMs": 966.6666666666642,
+      "endMs": 1166.6666666666642,
+      "timestampMs": 966.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "on",
+      "startMs": 1166.6666666666642,
+      "endMs": 1326.6666666666642,
+      "timestampMs": 1166.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "the",
+      "startMs": 1326.6666666666642,
+      "endMs": 1626.6666666666642,
+      "timestampMs": 1326.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "screen",
+      "startMs": 1626.6666666666642,
+      "endMs": 2300.0,
+      "timestampMs": 1626.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "8": [
+    {
+      "text": "Evidence",
+      "startMs": 2086.6666666666642,
+      "endMs": 2386.6666666666642,
+      "timestampMs": 2086.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "can't",
+      "startMs": 2386.6666666666642,
+      "endMs": 2546.6666666666642,
+      "timestampMs": 2386.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "be",
+      "startMs": 2546.6666666666642,
+      "endMs": 2906.6666666666642,
+      "timestampMs": 2546.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "edited",
+      "startMs": 2906.6666666666642,
+      "endMs": 3833.333333333333,
+      "timestampMs": 2906.6666666666642,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "9": [
+    {
+      "text": "Even",
+      "startMs": 353.33333333333576,
+      "endMs": 1133.3333333333358,
+      "timestampMs": 353.33333333333576,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "with",
+      "startMs": 1133.3333333333358,
+      "endMs": 1353.3333333333358,
+      "timestampMs": 1133.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "no",
+      "startMs": 1353.3333333333358,
+      "endMs": 1693.3333333333358,
+      "timestampMs": 1353.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "signal",
+      "startMs": 1693.3333333333358,
+      "endMs": 3300.0,
+      "timestampMs": 1693.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ],
+  "10": [
+    {
+      "text": "Try",
+      "startMs": 373.33333333333576,
+      "endMs": 553.3333333333358,
+      "timestampMs": 373.33333333333576,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "it",
+      "startMs": 553.3333333333358,
+      "endMs": 1113.3333333333358,
+      "timestampMs": 553.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "free",
+      "startMs": 1113.3333333333358,
+      "endMs": 1393.3333333333358,
+      "timestampMs": 1113.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "for",
+      "startMs": 1393.3333333333358,
+      "endMs": 1713.3333333333358,
+      "timestampMs": 1393.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "14",
+      "startMs": 1713.3333333333358,
+      "endMs": 2013.3333333333358,
+      "timestampMs": 1713.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "days",
+      "startMs": 2013.3333333333358,
+      "endMs": 5600.0,
+      "timestampMs": 2013.3333333333358,
+      "confidence": null,
+      "pageBreakAfter": false
+    }
+  ]
+}

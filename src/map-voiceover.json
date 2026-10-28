@@ -1,0 +1,82 @@
+[
+  {
+    "scene": 1,
+    "text": "Where is your technician right now?",
+    "from": 0,
+    "dur": 75,
+    "startMs": 100.0,
+    "endMs": 1810.2708333333333
+  },
+  {
+    "scene": 2,
+    "text": "Calls. Texts. \"Where are you?\" All day.",
+    "from": 75,
+    "dur": 90,
+    "startMs": 2600.0,
+    "endMs": 5147.041666666666
+  },
+  {
+    "scene": 3,
+    "text": "Dispatch the job from the web app.",
+    "from": 165,
+    "dur": 75,
+    "startMs": 5600.0,
+    "endMs": 7456.395833333334
+  },
+  {
+    "scene": 4,
+    "text": "It lands on your technician's phone.",
+    "from": 240,
+    "dur": 75,
+    "startMs": 8100.0,
+    "endMs": 9873.229166666666
+  },
+  {
+    "scene": 5,
+    "text": "Customer's number. The site on a map.",
+    "from": 315,
+    "dur": 90,
+    "startMs": 10600.0,
+    "endMs": 12896.6875
+  },
+  {
+    "scene": 6,
+    "text": "They tap On my way when they set off.",
+    "from": 405,
+    "dur": 75,
+    "startMs": 13600.0,
+    "endMs": 15469.8125
+  },
+  {
+    "scene": 7,
+    "text": "In the office, the live map shows them on the way, or on site.",
+    "from": 480,
+    "dur": 120,
+    "startMs": 16100.0,
+    "endMs": 19579.895833333332
+  },
+  {
+    "scene": 8,
+    "text": "And you get warned when a job is about to miss its deadline.",
+    "from": 600,
+    "dur": 111,
+    "startMs": 20100.0,
+    "endMs": 23401.75
+  },
+  {
+    "scene": 9,
+    "text": "Fewer \"where are you?\" calls.",
+    "from": 711,
+    "dur": 90,
+    "startMs": 23800.0,
+    "endMs": 25430.916666666668
+  },
+  {
+    "scene": 10,
+    "text": "Try Kordify free for fourteen days. Get Kordify dot com.",
+    "from": 801,
+    "dur": 139,
+    "startMs": 26800.0,
+    "endMs": 30715.833333333332
+  }
+]

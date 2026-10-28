@@ -1,0 +1,429 @@
+[
+  {
+    "scene": 1,
+    "offset": 4,
+    "sound": "whoosh",
+    "gain": 0.48,
+    "label": "Phone slides in"
+  },
+  {
+    "scene": 1,
+    "offset": 63,
+    "sound": "disconnect",
+    "gain": 0.68,
+    "label": "Signal lost two-note disconnect"
+  },
+  {
+    "scene": 1,
+    "offset": 97,
+    "sound": "pop",
+    "gain": 0.38,
+    "label": "Unknown status pops"
+  },
+  {
+    "scene": 2,
+    "offset": 0,
+    "sound": "whoosh",
+    "gain": 0.25,
+    "label": "Messy cards fly in"
+  },
+  {
+    "scene": 2,
+    "offset": 0,
+    "sound": "pop",
+    "gain": 0.48,
+    "label": "Note card pops"
+  },
+  {
+    "scene": 2,
+    "offset": 5,
+    "sound": "pop",
+    "gain": 0.5,
+    "label": "Spreadsheet card pops"
+  },
+  {
+    "scene": 2,
+    "offset": 10,
+    "sound": "pop",
+    "gain": 0.52,
+    "label": "Missed call card pops"
+  },
+  {
+    "scene": 2,
+    "offset": 15,
+    "sound": "pop",
+    "gain": 0.54,
+    "label": "Messages card pops"
+  },
+  {
+    "scene": 2,
+    "offset": 20,
+    "sound": "pop",
+    "gain": 0.5599999999999999,
+    "label": "Reminder card pops"
+  },
+  {
+    "scene": 3,
+    "offset": 3,
+    "sound": "whoosh",
+    "gain": 0.3,
+    "label": "Photo frame slides"
+  },
+  {
+    "scene": 3,
+    "offset": 9,
+    "sound": "whoosh",
+    "gain": 0.22,
+    "label": "Signature card slides"
+  },
+  {
+    "scene": 3,
+    "offset": 28,
+    "sound": "stamp",
+    "gain": 0.64,
+    "label": "NO PROOF stamp impact"
+  },
+  {
+    "scene": 3,
+    "offset": 28,
+    "sound": "denied",
+    "gain": 0.6,
+    "label": "No proof error confirmation"
+  },
+  {
+    "scene": 4,
+    "offset": 8,
+    "sound": "whoosh",
+    "gain": 0.35,
+    "label": "Invoice stack enters"
+  },
+  {
+    "scene": 4,
+    "offset": 10,
+    "sound": "clockTick",
+    "gain": 0.4,
+    "label": "Invoice clock tick 1"
+  },
+  {
+    "scene": 4,
+    "offset": 15,
+    "sound": "error",
+    "gain": 0.26,
+    "label": "Overdue warning"
+  },
+  {
+    "scene": 4,
+    "offset": 20,
+    "sound": "clockTock",
+    "gain": 0.41200000000000003,
+    "label": "Invoice clock tock 2"
+  },
+  {
+    "scene": 4,
+    "offset": 30,
+    "sound": "clockTick",
+    "gain": 0.42400000000000004,
+    "label": "Invoice clock tick 3"
+  },
+  {
+    "scene": 4,
+    "offset": 40,
+    "sound": "clockTock",
+    "gain": 0.43600000000000005,
+    "label": "Invoice clock tock 4"
+  },
+  {
+    "scene": 4,
+    "offset": 50,
+    "sound": "clockTick",
+    "gain": 0.448,
+    "label": "Invoice clock tick 5"
+  },
+  {
+    "scene": 4,
+    "offset": 60,
+    "sound": "clockTock",
+    "gain": 0.46,
+    "label": "Invoice clock tock 6"
+  },
+  {
+    "scene": 4,
+    "offset": 58,
+    "sound": "riser",
+    "gain": 0.48,
+    "label": "Build into Kordify reveal"
+  },
+  {
+    "scene": 5,
+    "offset": 4,
+    "sound": "pop",
+    "gain": 0.62,
+    "label": "Brand reveal pop"
+  },
+  {
+    "scene": 5,
+    "offset": 4,
+    "sound": "bass",
+    "gain": 0.35,
+    "label": "Brand reveal low impact"
+  },
+  {
+    "scene": 5,
+    "offset": 29,
+    "sound": "brandBridge",
+    "gain": 0.22,
+    "label": "Warm shimmer bridges narration pause into dispatch"
+  },
+  {
+    "scene": 6,
+    "offset": 0,
+    "sound": "whoosh",
+    "gain": 0.35,
+    "label": "Dispatch board slides"
+  },
+  {
+    "scene": 6,
+    "offset": 10,
+    "sound": "click",
+    "gain": 0.25,
+    "label": "First job picked up"
+  },
+  {
+    "scene": 6,
+    "offset": 18,
+    "sound": "click",
+    "gain": 0.25,
+    "label": "Second job picked up"
+  },
+  {
+    "scene": 6,
+    "offset": 20,
+    "sound": "whoosh",
+    "gain": 0.28,
+    "label": "Job phone slides"
+  },
+  {
+    "scene": 6,
+    "offset": 32,
+    "sound": "click",
+    "gain": 0.43,
+    "label": "First job lands"
+  },
+  {
+    "scene": 6,
+    "offset": 40,
+    "sound": "click",
+    "gain": 0.43,
+    "label": "Second job lands"
+  },
+  {
+    "scene": 6,
+    "offset": 45,
+    "sound": "location",
+    "gain": 0.48,
+    "label": "Technician location pin ping"
+  },
+  {
+    "scene": 7,
+    "offset": 2,
+    "sound": "whoosh",
+    "gain": 0.4,
+    "label": "Offline phone slides"
+  },
+  {
+    "scene": 7,
+    "offset": 10,
+    "sound": "pop",
+    "gain": 0.35,
+    "label": "Offline chip pops"
+  },
+  {
+    "scene": 7,
+    "offset": 75,
+    "sound": "click",
+    "gain": 0.25,
+    "label": "Sync starts"
+  },
+  {
+    "scene": 7,
+    "offset": 100,
+    "sound": "success",
+    "gain": 0.56,
+    "label": "Synced success"
+  },
+  {
+    "scene": 8,
+    "offset": 0,
+    "sound": "whoosh",
+    "gain": 0.3,
+    "label": "Checklist fans in"
+  },
+  {
+    "scene": 8,
+    "offset": 8,
+    "sound": "whoosh",
+    "gain": 0.25,
+    "label": "Evidence fans in"
+  },
+  {
+    "scene": 8,
+    "offset": 16,
+    "sound": "whoosh",
+    "gain": 0.25,
+    "label": "Signature fans in"
+  },
+  {
+    "scene": 8,
+    "offset": 18,
+    "sound": "click",
+    "gain": 0.25,
+    "label": "Checklist row 1"
+  },
+  {
+    "scene": 8,
+    "offset": 24,
+    "sound": "click",
+    "gain": 0.28,
+    "label": "Checklist row 2"
+  },
+  {
+    "scene": 8,
+    "offset": 21,
+    "sound": "click",
+    "gain": 0.47,
+    "label": "Checklist complete check"
+  },
+  {
+    "scene": 8,
+    "offset": 32,
+    "sound": "pop",
+    "gain": 0.2,
+    "label": "Time-stamped tag"
+  },
+  {
+    "scene": 8,
+    "offset": 40,
+    "sound": "pop",
+    "gain": 0.2,
+    "label": "Required tag"
+  },
+  {
+    "scene": 8,
+    "offset": 69,
+    "sound": "click",
+    "gain": 0.47,
+    "label": "Photo check"
+  },
+  {
+    "scene": 8,
+    "offset": 104,
+    "sound": "click",
+    "gain": 0.5,
+    "label": "Signature check"
+  },
+  {
+    "scene": 9,
+    "offset": 3,
+    "sound": "whoosh",
+    "gain": 0.35,
+    "label": "Invoice slides in"
+  },
+  {
+    "scene": 9,
+    "offset": 53,
+    "sound": "bell",
+    "gain": 0.38,
+    "label": "Payment reminder 1"
+  },
+  {
+    "scene": 9,
+    "offset": 69,
+    "sound": "bell",
+    "gain": 0.38,
+    "label": "Payment reminder 2"
+  },
+  {
+    "scene": 9,
+    "offset": 95,
+    "sound": "whoosh",
+    "gain": 0.22,
+    "label": "Payment status flips"
+  },
+  {
+    "scene": 9,
+    "offset": 101,
+    "sound": "success",
+    "gain": 0.6,
+    "label": "Paid success"
+  },
+  {
+    "scene": 10,
+    "offset": 2,
+    "sound": "bass",
+    "gain": 0.68,
+    "label": "Big one lands"
+  },
+  {
+    "scene": 10,
+    "offset": 20,
+    "sound": "pop",
+    "gain": 0.45,
+    "label": "Trial chip pops"
+  },
+  {
+    "scene": 10,
+    "offset": 28,
+    "sound": "pop",
+    "gain": 0.36,
+    "label": "No card chip pops"
+  },
+  {
+    "scene": 10,
+    "offset": 36,
+    "sound": "pop",
+    "gain": 0.36,
+    "label": "Early access chip pops"
+  },
+  {
+    "scene": 10,
+    "offset": 92,
+    "sound": "riser",
+    "gain": 0.42,
+    "label": "Build into CTA"
+  },
+  {
+    "scene": 11,
+    "offset": 2,
+    "sound": "whoosh",
+    "gain": 0.28,
+    "label": "CTA phone slides"
+  },
+  {
+    "scene": 11,
+    "offset": 8,
+    "sound": "pop",
+    "gain": 0.38,
+    "label": "CTA wordmark pops"
+  },
+  {
+    "scene": 11,
+    "offset": 15,
+    "sound": "pop",
+    "gain": 0.56,
+    "label": "Trial button pops"
+  },
+  {
+    "scene": 11,
+    "offset": 22,
+    "sound": "click",
+    "gain": 0.35,
+    "label": "URL clicks in"
+  },
+  {
+    "scene": 11,
+    "offset": 28,
+    "sound": "pop",
+    "gain": 0.3,
+    "label": "Final trial chip pops"
+  }
+]

@@ -9,10 +9,15 @@
   },
   "private": true,
   "dependencies": {
+    "@remotion/captions": "^4.0.538",
     "@remotion/cli": "4.0.538",
+    "@remotion/google-fonts": "^4.0.538",
+    "@remotion/media": "4.0.538",
+    "@remotion/media-utils": "^4.0.538",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "remotion": "4.0.538"
+    "remotion": "4.0.538",
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.538",
@@ -24,6 +29,11 @@
   },
   "scripts": {
     "dev": "remotion studio",
+    "render": "remotion render src/index.ts KordifyReel out/kordify-reel.mp4 --codec=h264",
+    "render:map": "remotion render src/index.ts KordifyMapReel out/kordify-map-reel.mp4 --codec=h264",
+    "review:map": "node scripts/review-map.mjs",
+    "review:proof": "node scripts/review-proof.mjs",
+    "render:proof": "remotion render src/index.ts KordifyProofReel out/kordify-proof-reel.mp4 --codec=h264",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc"

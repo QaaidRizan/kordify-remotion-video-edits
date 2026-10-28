@@ -1,0 +1,414 @@
+{
+  "1": [
+    {
+      "text": "Where",
+      "startMs": 260.0,
+      "endMs": 400.0,
+      "timestampMs": 260,
+      "confidence": 0.899618,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "is",
+      "startMs": 380.0,
+      "endMs": 560.0,
+      "timestampMs": 380,
+      "confidence": 0.78049,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "your",
+      "startMs": 520.0,
+      "endMs": 880.0,
+      "timestampMs": 520,
+      "confidence": 0.993798,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "technician?",
+      "startMs": 960.0,
+      "endMs": 1660.0,
+      "timestampMs": 960,
+      "confidence": 0.979933,
+      "pageBreakAfter": false
+    }
+  ],
+  "2": [
+    {
+      "text": "Calls.",
+      "startMs": 480.0,
+      "endMs": 590.0,
+      "timestampMs": 2980,
+      "confidence": 0.970772,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "Texts.",
+      "startMs": 880.0,
+      "endMs": 1320.0,
+      "timestampMs": 3380,
+      "confidence": 0.962143,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "“Where",
+      "startMs": 1520.0,
+      "endMs": 1570.0,
+      "timestampMs": 4020,
+      "confidence": 0.931955,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "are",
+      "startMs": 1660.0,
+      "endMs": 1780.0,
+      "timestampMs": 4160,
+      "confidence": 0.986289,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "you?”",
+      "startMs": 1880.0,
+      "endMs": 2060.0,
+      "timestampMs": 4380,
+      "confidence": 0.997693,
+      "pageBreakAfter": false
+    }
+  ],
+  "3": [
+    {
+      "text": "Dispatch",
+      "startMs": 460.0,
+      "endMs": 580.0,
+      "timestampMs": 5960,
+      "confidence": 0.501076,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "the",
+      "startMs": 740.0,
+      "endMs": 790.0,
+      "timestampMs": 6240,
+      "confidence": 0.847708,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "job",
+      "startMs": 1020.0,
+      "endMs": 1070.0,
+      "timestampMs": 6520,
+      "confidence": 0.863383,
+      "pageBreakAfter": false
+    }
+  ],
+  "4": [
+    {
+      "text": "It",
+      "startMs": 220.0,
+      "endMs": 270.0,
+      "timestampMs": 8220,
+      "confidence": 0.544962,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "lands",
+      "startMs": 480.0,
+      "endMs": 530.0,
+      "timestampMs": 8480,
+      "confidence": 0.985612,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "on",
+      "startMs": 700.0,
+      "endMs": 750.0,
+      "timestampMs": 8700,
+      "confidence": 0.989223,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "their",
+      "startMs": 820.0,
+      "endMs": 870.0,
+      "timestampMs": 8820,
+      "confidence": 0.987266,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "phone",
+      "startMs": 1680.0,
+      "endMs": 1873.229166666666,
+      "timestampMs": 9680,
+      "confidence": 0.99386,
+      "pageBreakAfter": false
+    }
+  ],
+  "5": [
+    {
+      "text": "Customer",
+      "startMs": 580.0,
+      "endMs": 630.0,
+      "timestampMs": 11080,
+      "confidence": 0.406534,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "number.",
+      "startMs": 920.0,
+      "endMs": 1340.0,
+      "timestampMs": 11420,
+      "confidence": 0.879019,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Site",
+      "startMs": 1700.0,
+      "endMs": 1750.0,
+      "timestampMs": 12200,
+      "confidence": 0.986574,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "on",
+      "startMs": 1840.0,
+      "endMs": 1890.0,
+      "timestampMs": 12340,
+      "confidence": 0.986382,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "a",
+      "startMs": 1940.0,
+      "endMs": 1990.0,
+      "timestampMs": 12440,
+      "confidence": 0.987901,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "map.",
+      "startMs": 2200.0,
+      "endMs": 2396.6875,
+      "timestampMs": 12700,
+      "confidence": 0.997046,
+      "pageBreakAfter": false
+    }
+  ],
+  "6": [
+    {
+      "text": "Tap",
+      "startMs": 500.0,
+      "endMs": 550.0,
+      "timestampMs": 14000,
+      "confidence": 0.983198,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "“On",
+      "startMs": 660.0,
+      "endMs": 710.0,
+      "timestampMs": 14160,
+      "confidence": 0.990571,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "my",
+      "startMs": 800.0,
+      "endMs": 850.0,
+      "timestampMs": 14300,
+      "confidence": 0.99281,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "way”",
+      "startMs": 1000.0,
+      "endMs": 1050.0,
+      "timestampMs": 14500,
+      "confidence": 0.996664,
+      "pageBreakAfter": false
+    }
+  ],
+  "7": [
+    {
+      "text": "See",
+      "startMs": 240.0,
+      "endMs": 290.0,
+      "timestampMs": 16240,
+      "confidence": 0.760261,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "them",
+      "startMs": 360.0,
+      "endMs": 410.0,
+      "timestampMs": 16360,
+      "confidence": 0.990072,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "on",
+      "startMs": 760.0,
+      "endMs": 1030.0,
+      "timestampMs": 16760,
+      "confidence": 0.973212,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "the",
+      "startMs": 1100.0,
+      "endMs": 1230.0,
+      "timestampMs": 17100,
+      "confidence": 0.986118,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "live",
+      "startMs": 1320.0,
+      "endMs": 1610.0,
+      "timestampMs": 17320,
+      "confidence": 0.926004,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "map",
+      "startMs": 1560.0,
+      "endMs": 1770.0,
+      "timestampMs": 17560,
+      "confidence": 0.978707,
+      "pageBreakAfter": false
+    }
+  ],
+  "8": [
+    {
+      "text": "Warned",
+      "startMs": 940.0,
+      "endMs": 1060.0,
+      "timestampMs": 20940,
+      "confidence": 0.982158,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "before",
+      "startMs": 1420.0,
+      "endMs": 1470.0,
+      "timestampMs": 21420,
+      "confidence": 0.967276,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "a",
+      "startMs": 1540.0,
+      "endMs": 1590.0,
+      "timestampMs": 21540,
+      "confidence": 0.995156,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "deadline",
+      "startMs": 2220.0,
+      "endMs": 2270.0,
+      "timestampMs": 22220,
+      "confidence": 0.994867,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "slips",
+      "startMs": 2540.0,
+      "endMs": 2590.0,
+      "timestampMs": 22540,
+      "confidence": 0.992905,
+      "pageBreakAfter": false
+    }
+  ],
+  "9": [
+    {
+      "text": "Fewer",
+      "startMs": 340.0,
+      "endMs": 390.0,
+      "timestampMs": 24040,
+      "confidence": 0.977392,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "“where",
+      "startMs": 640.0,
+      "endMs": 690.0,
+      "timestampMs": 24340,
+      "confidence": 0.955514,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "are",
+      "startMs": 760.0,
+      "endMs": 810.0,
+      "timestampMs": 24460,
+      "confidence": 0.945132,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "you?”",
+      "startMs": 920.0,
+      "endMs": 1160.0,
+      "timestampMs": 24620,
+      "confidence": 0.996666,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "calls",
+      "startMs": 1400.0,
+      "endMs": 1640.0,
+      "timestampMs": 25100,
+      "confidence": 0.784614,
+      "pageBreakAfter": false
+    }
+  ],
+  "10": [
+    {
+      "text": "Try",
+      "startMs": 400.0,
+      "endMs": 450.0,
+      "timestampMs": 27100,
+      "confidence": 0.894935,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "it",
+      "startMs": 580.0,
+      "endMs": 890.0,
+      "timestampMs": 27280,
+      "confidence": 0.747433,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "free",
+      "startMs": 1120.0,
+      "endMs": 1300.0,
+      "timestampMs": 27820,
+      "confidence": 0.803379,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "for",
+      "startMs": 1380.0,
+      "endMs": 1500.0,
+      "timestampMs": 28080,
+      "confidence": 0.996386,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "14",
+      "startMs": 1720.0,
+      "endMs": 2030.0,
+      "timestampMs": 28420,
+      "confidence": 0.983999,
+      "pageBreakAfter": false
+    },
+    {
+      "text": "days",
+      "startMs": 2020.0,
+      "endMs": 2620.0,
+      "timestampMs": 28720,
+      "confidence": 0.993102,
+      "pageBreakAfter": false
+    }
+  ]
+}

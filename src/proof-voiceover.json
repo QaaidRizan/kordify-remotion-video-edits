@@ -1,0 +1,82 @@
+[
+  {
+    "scene": 1,
+    "text": "You didn't do that. Prove it.",
+    "from": 0,
+    "dur": 75,
+    "startMs": 100.0,
+    "endMs": 1599.0
+  },
+  {
+    "scene": 2,
+    "text": "Cleaning crew. H V A C technician. Same argument.",
+    "from": 75,
+    "dur": 119,
+    "startMs": 2600.0,
+    "endMs": 6195.541666666666
+  },
+  {
+    "scene": 3,
+    "text": "The job's done. The customer says it isn't.",
+    "from": 194,
+    "dur": 92,
+    "startMs": 6566.666666666667,
+    "endMs": 9247.625
+  },
+  {
+    "scene": 4,
+    "text": "In Kordify, you decide what's mandatory.",
+    "from": 286,
+    "dur": 90,
+    "startMs": 9633.333333333334,
+    "endMs": 12169.229166666666
+  },
+  {
+    "scene": 5,
+    "text": "A job can't be closed until it's done.",
+    "from": 376,
+    "dur": 77,
+    "startMs": 12633.333333333334,
+    "endMs": 14814.291666666668
+  },
+  {
+    "scene": 6,
+    "text": "Before and after photos, stamped with the time and place.",
+    "from": 453,
+    "dur": 109,
+    "startMs": 15200.0,
+    "endMs": 18451.979166666668
+  },
+  {
+    "scene": 7,
+    "text": "The customer signs on the screen.",
+    "from": 562,
+    "dur": 75,
+    "startMs": 18833.333333333336,
+    "endMs": 20582.291666666668
+  },
+  {
+    "scene": 8,
+    "text": "Saved with the job. The evidence can't be edited afterwards.",
+    "from": 637,
+    "dur": 121,
+    "startMs": 21333.333333333336,
+    "endMs": 24990.416666666668
+  },
+  {
+    "scene": 9,
+    "text": "Even in a basement with no signal. It syncs later.",
+    "from": 758,
+    "dur": 105,
+    "startMs": 25366.666666666664,
+    "endMs": 28408.104166666668
+  },
+  {
+    "scene": 10,
+    "text": "Try Kordify free for fourteen days. No credit card. Get Kordify dot com.",
+    "from": 863,
+    "dur": 174,
+    "startMs": 28866.666666666664,
+    "endMs": 33963.97916666667
+  }
+]

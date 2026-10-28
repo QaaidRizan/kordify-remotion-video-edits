@@ -7,6 +7,9 @@
 
 import { Config } from "@remotion/cli/config";
 
+// Keep Studio and the render bundle separate on Windows localhost.
+Config.setStudioPort(3000);
+Config.setRendererPort(3102);
 Config.setRspack(true);
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);

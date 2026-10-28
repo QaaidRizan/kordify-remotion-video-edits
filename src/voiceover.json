@@ -1,0 +1,112 @@
+[
+  {
+    "scene": 1,
+    "text": "Your technician is in a basement. No signal. Job status? Unknown.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 80.0,
+    "endMs": 4593.708333333334,
+    "fromFrame": 0,
+    "durationInFrames": 143
+  },
+  {
+    "scene": 2,
+    "text": "Jobs live in texts, notes and spreadsheets.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 4846.666666666667,
+    "endMs": 7488.645833333333,
+    "fromFrame": 143,
+    "durationInFrames": 87
+  },
+  {
+    "scene": 3,
+    "text": "No proof the work was done.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 7746.666666666667,
+    "endMs": 9282.208333333334,
+    "fromFrame": 230,
+    "durationInFrames": 54
+  },
+  {
+    "scene": 4,
+    "text": "And the invoice goes out late.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 9546.666666666666,
+    "endMs": 11136.979166666666,
+    "fromFrame": 284,
+    "durationInFrames": 72
+  },
+  {
+    "scene": 5,
+    "text": "Meet Kordify.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 11946.666666666668,
+    "endMs": 13041.645833333334,
+    "fromFrame": 356,
+    "durationInFrames": 41
+  },
+  {
+    "scene": 6,
+    "text": "Dispatch jobs from the web app.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 13313.333333333332,
+    "endMs": 15025.645833333334,
+    "fromFrame": 397,
+    "durationInFrames": 59
+  },
+  {
+    "scene": 7,
+    "text": "Technicians keep working offline. It syncs when the signal's back.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 15280.0,
+    "endMs": 19055.125,
+    "fromFrame": 456,
+    "durationInFrames": 121
+  },
+  {
+    "scene": 8,
+    "text": "Required checklists. Time-stamped photos. Customer signature.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 19313.333333333332,
+    "endMs": 23299.875,
+    "fromFrame": 577,
+    "durationInFrames": 127
+  },
+  {
+    "scene": 9,
+    "text": "Finished jobs become invoices, and reminders chase the payment.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 23546.666666666668,
+    "endMs": 27384.083333333332,
+    "fromFrame": 704,
+    "durationInFrames": 123
+  },
+  {
+    "scene": 10,
+    "text": "Request to paid. One place. Free for 14 days.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 27646.666666666668,
+    "endMs": 30930.541666666668,
+    "fromFrame": 827,
+    "durationInFrames": 106
+  },
+  {
+    "scene": 11,
+    "text": "Start your free trial at get Kordify dot com.",
+    "voice": "Kokoro af_heart",
+    "synthesisRate": "normal (1.0)",
+    "startMs": 31180.0,
+    "endMs": 33904.14583333333,
+    "fromFrame": 933,
+    "durationInFrames": 95
+  }
+]

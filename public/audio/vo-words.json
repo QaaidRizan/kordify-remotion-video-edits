@@ -1,0 +1,650 @@
+[
+  {
+    "text": "Your",
+    "startMs": 120,
+    "endMs": 290,
+    "timestampMs": null,
+    "confidence": 0.888892,
+    "scene": 1
+  },
+  {
+    "text": "technician",
+    "startMs": 290,
+    "endMs": 1030,
+    "timestampMs": null,
+    "confidence": 0.997272,
+    "scene": 1
+  },
+  {
+    "text": "is",
+    "startMs": 1030,
+    "endMs": 1170,
+    "timestampMs": null,
+    "confidence": 0.996196,
+    "scene": 1
+  },
+  {
+    "text": "in",
+    "startMs": 1170,
+    "endMs": 1310,
+    "timestampMs": null,
+    "confidence": 0.99134,
+    "scene": 1
+  },
+  {
+    "text": "a",
+    "startMs": 1310,
+    "endMs": 1380,
+    "timestampMs": null,
+    "confidence": 0.995364,
+    "scene": 1
+  },
+  {
+    "text": "basement",
+    "startMs": 1380,
+    "endMs": 2110,
+    "timestampMs": null,
+    "confidence": 0.998395,
+    "scene": 1
+  },
+  {
+    "text": "no",
+    "startMs": 2110,
+    "endMs": 2290,
+    "timestampMs": null,
+    "confidence": 0.991083,
+    "scene": 1
+  },
+  {
+    "text": "signal",
+    "startMs": 2290,
+    "endMs": 2950,
+    "timestampMs": null,
+    "confidence": 0.985727,
+    "scene": 1
+  },
+  {
+    "text": "job",
+    "startMs": 2950,
+    "endMs": 3220,
+    "timestampMs": null,
+    "confidence": 0.975737,
+    "scene": 1
+  },
+  {
+    "text": "status",
+    "startMs": 3220,
+    "endMs": 3940,
+    "timestampMs": null,
+    "confidence": 0.99935,
+    "scene": 1
+  },
+  {
+    "text": "unknown",
+    "startMs": 3940,
+    "endMs": 4593.708333333334,
+    "timestampMs": null,
+    "confidence": 0.504688,
+    "scene": 1
+  },
+  {
+    "text": "Jobs",
+    "startMs": 4900,
+    "endMs": 5200,
+    "timestampMs": null,
+    "confidence": 0.530299,
+    "scene": 2
+  },
+  {
+    "text": "live",
+    "startMs": 5200,
+    "endMs": 5440,
+    "timestampMs": null,
+    "confidence": 0.951735,
+    "scene": 2
+  },
+  {
+    "text": "in",
+    "startMs": 5440,
+    "endMs": 5540,
+    "timestampMs": null,
+    "confidence": 0.955893,
+    "scene": 2
+  },
+  {
+    "text": "texts",
+    "startMs": 5540,
+    "endMs": 6220,
+    "timestampMs": null,
+    "confidence": 0.575473,
+    "scene": 2
+  },
+  {
+    "text": "notes",
+    "startMs": 6220,
+    "endMs": 6540,
+    "timestampMs": null,
+    "confidence": 0.948047,
+    "scene": 2
+  },
+  {
+    "text": "and",
+    "startMs": 6540,
+    "endMs": 6740,
+    "timestampMs": null,
+    "confidence": 0.998906,
+    "scene": 2
+  },
+  {
+    "text": "spreadsheets",
+    "startMs": 6740,
+    "endMs": 7488.645833333333,
+    "timestampMs": null,
+    "confidence": 0.996816,
+    "scene": 2
+  },
+  {
+    "text": "No",
+    "startMs": 7790,
+    "endMs": 7870,
+    "timestampMs": null,
+    "confidence": 0.98347,
+    "scene": 3
+  },
+  {
+    "text": "proof",
+    "startMs": 7870,
+    "endMs": 8200,
+    "timestampMs": null,
+    "confidence": 0.989955,
+    "scene": 3
+  },
+  {
+    "text": "the",
+    "startMs": 8200,
+    "endMs": 8400,
+    "timestampMs": null,
+    "confidence": 0.98815,
+    "scene": 3
+  },
+  {
+    "text": "work",
+    "startMs": 8400,
+    "endMs": 8710,
+    "timestampMs": null,
+    "confidence": 0.999447,
+    "scene": 3
+  },
+  {
+    "text": "was",
+    "startMs": 8710,
+    "endMs": 8880,
+    "timestampMs": null,
+    "confidence": 0.998414,
+    "scene": 3
+  },
+  {
+    "text": "done",
+    "startMs": 8880,
+    "endMs": 9282.208333333334,
+    "timestampMs": null,
+    "confidence": 0.99947,
+    "scene": 3
+  },
+  {
+    "text": "and",
+    "startMs": 9546.666666666666,
+    "endMs": 9580,
+    "timestampMs": null,
+    "confidence": 0.995177,
+    "scene": 4
+  },
+  {
+    "text": "the",
+    "startMs": 9580,
+    "endMs": 9650,
+    "timestampMs": null,
+    "confidence": 0.997482,
+    "scene": 4
+  },
+  {
+    "text": "invoice",
+    "startMs": 9650,
+    "endMs": 10160,
+    "timestampMs": null,
+    "confidence": 0.999725,
+    "scene": 4
+  },
+  {
+    "text": "goes",
+    "startMs": 10160,
+    "endMs": 10680,
+    "timestampMs": null,
+    "confidence": 0.984502,
+    "scene": 4
+  },
+  {
+    "text": "out",
+    "startMs": 10680,
+    "endMs": 11010,
+    "timestampMs": null,
+    "confidence": 0.997573,
+    "scene": 4
+  },
+  {
+    "text": "late",
+    "startMs": 11010,
+    "endMs": 11136.979166666666,
+    "timestampMs": null,
+    "confidence": 0.998005,
+    "scene": 4
+  },
+  {
+    "text": "Meet",
+    "startMs": 11960,
+    "endMs": 12340,
+    "timestampMs": null,
+    "confidence": 0.868722,
+    "scene": 5
+  },
+  {
+    "text": "Kordify",
+    "startMs": 12340,
+    "endMs": 13041.645833333334,
+    "timestampMs": null,
+    "confidence": 0.339166,
+    "scene": 5
+  },
+  {
+    "text": "dispatch",
+    "startMs": 13350,
+    "endMs": 13650,
+    "timestampMs": null,
+    "confidence": 0.96001,
+    "scene": 6
+  },
+  {
+    "text": "jobs",
+    "startMs": 13650,
+    "endMs": 13970,
+    "timestampMs": null,
+    "confidence": 0.994228,
+    "scene": 6
+  },
+  {
+    "text": "from",
+    "startMs": 13970,
+    "endMs": 14290,
+    "timestampMs": null,
+    "confidence": 0.998795,
+    "scene": 6
+  },
+  {
+    "text": "the",
+    "startMs": 14290,
+    "endMs": 14530,
+    "timestampMs": null,
+    "confidence": 0.998571,
+    "scene": 6
+  },
+  {
+    "text": "web",
+    "startMs": 14530,
+    "endMs": 14750,
+    "timestampMs": null,
+    "confidence": 0.740547,
+    "scene": 6
+  },
+  {
+    "text": "app",
+    "startMs": 14750,
+    "endMs": 15025.645833333334,
+    "timestampMs": null,
+    "confidence": 0.991906,
+    "scene": 6
+  },
+  {
+    "text": "Technicians",
+    "startMs": 15320,
+    "endMs": 16040,
+    "timestampMs": null,
+    "confidence": 0.514847,
+    "scene": 7
+  },
+  {
+    "text": "keep",
+    "startMs": 16040,
+    "endMs": 16300,
+    "timestampMs": null,
+    "confidence": 0.996508,
+    "scene": 7
+  },
+  {
+    "text": "working",
+    "startMs": 16300,
+    "endMs": 16790,
+    "timestampMs": null,
+    "confidence": 0.999033,
+    "scene": 7
+  },
+  {
+    "text": "offline",
+    "startMs": 16790,
+    "endMs": 17480,
+    "timestampMs": null,
+    "confidence": 0.994702,
+    "scene": 7
+  },
+  {
+    "text": "It",
+    "startMs": 17480,
+    "endMs": 17710,
+    "timestampMs": null,
+    "confidence": 0.90305,
+    "scene": 7
+  },
+  {
+    "text": "syncs",
+    "startMs": 17710,
+    "endMs": 17940,
+    "timestampMs": null,
+    "confidence": 0.862758,
+    "scene": 7
+  },
+  {
+    "text": "when",
+    "startMs": 17940,
+    "endMs": 18250,
+    "timestampMs": null,
+    "confidence": 0.998715,
+    "scene": 7
+  },
+  {
+    "text": "the",
+    "startMs": 18250,
+    "endMs": 18410,
+    "timestampMs": null,
+    "confidence": 0.997314,
+    "scene": 7
+  },
+  {
+    "text": "signal's",
+    "startMs": 18410,
+    "endMs": 18920,
+    "timestampMs": null,
+    "confidence": 0.976761,
+    "scene": 7
+  },
+  {
+    "text": "back",
+    "startMs": 18920,
+    "endMs": 19055.125,
+    "timestampMs": null,
+    "confidence": 0.999786,
+    "scene": 7
+  },
+  {
+    "text": "Required",
+    "startMs": 19410,
+    "endMs": 19930,
+    "timestampMs": null,
+    "confidence": 0.889704,
+    "scene": 8
+  },
+  {
+    "text": "checklists",
+    "startMs": 19930,
+    "endMs": 20750,
+    "timestampMs": null,
+    "confidence": 0.981742,
+    "scene": 8
+  },
+  {
+    "text": "time-stamped",
+    "startMs": 20750,
+    "endMs": 21520,
+    "timestampMs": null,
+    "confidence": 0.727965,
+    "scene": 8
+  },
+  {
+    "text": "photos",
+    "startMs": 21520,
+    "endMs": 22140,
+    "timestampMs": null,
+    "confidence": 0.999407,
+    "scene": 8
+  },
+  {
+    "text": "customer",
+    "startMs": 22140,
+    "endMs": 22700,
+    "timestampMs": null,
+    "confidence": 0.896188,
+    "scene": 8
+  },
+  {
+    "text": "signature",
+    "startMs": 22700,
+    "endMs": 23299.875,
+    "timestampMs": null,
+    "confidence": 0.992701,
+    "scene": 8
+  },
+  {
+    "text": "finished",
+    "startMs": 23630,
+    "endMs": 23900,
+    "timestampMs": null,
+    "confidence": 0.897389,
+    "scene": 9
+  },
+  {
+    "text": "jobs",
+    "startMs": 23940,
+    "endMs": 24190,
+    "timestampMs": null,
+    "confidence": 0.972364,
+    "scene": 9
+  },
+  {
+    "text": "become",
+    "startMs": 24190,
+    "endMs": 24630,
+    "timestampMs": null,
+    "confidence": 0.99357,
+    "scene": 9
+  },
+  {
+    "text": "invoices",
+    "startMs": 24630,
+    "endMs": 25340,
+    "timestampMs": null,
+    "confidence": 0.997009,
+    "scene": 9
+  },
+  {
+    "text": "and",
+    "startMs": 25340,
+    "endMs": 25690,
+    "timestampMs": null,
+    "confidence": 0.998022,
+    "scene": 9
+  },
+  {
+    "text": "reminders",
+    "startMs": 25690,
+    "endMs": 26240,
+    "timestampMs": null,
+    "confidence": 0.998582,
+    "scene": 9
+  },
+  {
+    "text": "chase",
+    "startMs": 26240,
+    "endMs": 26610,
+    "timestampMs": null,
+    "confidence": 0.993159,
+    "scene": 9
+  },
+  {
+    "text": "the",
+    "startMs": 26610,
+    "endMs": 26830,
+    "timestampMs": null,
+    "confidence": 0.99883,
+    "scene": 9
+  },
+  {
+    "text": "payment",
+    "startMs": 26830,
+    "endMs": 27384.083333333332,
+    "timestampMs": null,
+    "confidence": 0.999112,
+    "scene": 9
+  },
+  {
+    "text": "Request",
+    "startMs": 27680,
+    "endMs": 28090,
+    "timestampMs": null,
+    "confidence": 0.926603,
+    "scene": 10
+  },
+  {
+    "text": "to",
+    "startMs": 28090,
+    "endMs": 28240,
+    "timestampMs": null,
+    "confidence": 0.964796,
+    "scene": 10
+  },
+  {
+    "text": "paid",
+    "startMs": 28240,
+    "endMs": 28820,
+    "timestampMs": null,
+    "confidence": 0.925842,
+    "scene": 10
+  },
+  {
+    "text": "one",
+    "startMs": 28820,
+    "endMs": 28890,
+    "timestampMs": null,
+    "confidence": 0.968876,
+    "scene": 10
+  },
+  {
+    "text": "place",
+    "startMs": 28890,
+    "endMs": 29410,
+    "timestampMs": null,
+    "confidence": 0.99613,
+    "scene": 10
+  },
+  {
+    "text": "free",
+    "startMs": 29410,
+    "endMs": 29820,
+    "timestampMs": null,
+    "confidence": 0.994827,
+    "scene": 10
+  },
+  {
+    "text": "for",
+    "startMs": 29820,
+    "endMs": 30110,
+    "timestampMs": null,
+    "confidence": 0.999577,
+    "scene": 10
+  },
+  {
+    "text": "14",
+    "startMs": 30110,
+    "endMs": 30570,
+    "timestampMs": null,
+    "confidence": 0.80997,
+    "scene": 10
+  },
+  {
+    "text": "days",
+    "startMs": 30570,
+    "endMs": 30930.541666666668,
+    "timestampMs": null,
+    "confidence": 0.99838,
+    "scene": 10
+  },
+  {
+    "text": "Start",
+    "startMs": 31230,
+    "endMs": 31550,
+    "timestampMs": null,
+    "confidence": 0.882131,
+    "scene": 11
+  },
+  {
+    "text": "your",
+    "startMs": 31550,
+    "endMs": 31840,
+    "timestampMs": null,
+    "confidence": 0.998053,
+    "scene": 11
+  },
+  {
+    "text": "free",
+    "startMs": 31840,
+    "endMs": 32130,
+    "timestampMs": null,
+    "confidence": 0.99831,
+    "scene": 11
+  },
+  {
+    "text": "trial",
+    "startMs": 32130,
+    "endMs": 32500,
+    "timestampMs": null,
+    "confidence": 0.996079,
+    "scene": 11
+  },
+  {
+    "text": "at",
+    "startMs": 32500,
+    "endMs": 32650,
+    "timestampMs": null,
+    "confidence": 0.991333,
+    "scene": 11
+  },
+  {
+    "text": "get",
+    "startMs": 32650,
+    "endMs": 32860,
+    "timestampMs": null,
+    "confidence": 0.864478,
+    "scene": 11
+  },
+  {
+    "text": "kordify",
+    "startMs": 32860,
+    "endMs": 33370,
+    "timestampMs": null,
+    "confidence": 0.342018,
+    "scene": 11
+  },
+  {
+    "text": "dot",
+    "startMs": 33370,
+    "endMs": 33590,
+    "timestampMs": null,
+    "confidence": 0.909165,
+    "scene": 11
+  },
+  {
+    "text": "com",
+    "startMs": 33590,
+    "endMs": 33860,
+    "timestampMs": null,
+    "confidence": 0.985989,
+    "scene": 11
+  }
+]

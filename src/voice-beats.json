@@ -1,0 +1,12 @@
+{
+  "disconnect": 63,
+  "unknown": 97,
+  "sync": 75,
+  "synced": 100,
+  "checklist": 21,
+  "photo": 69,
+  "signature": 104,
+  "reminder1": 53,
+  "reminder2": 69,
+  "paid": 101
+}

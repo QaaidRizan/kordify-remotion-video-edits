@@ -1,0 +1,346 @@
+{
+  "1": [
+    {
+      "text": "No",
+      "startMs": 2045.0,
+      "endMs": 2290.0,
+      "timestampMs": null,
+      "confidence": 0.991083
+    },
+    {
+      "text": "signal.",
+      "startMs": 2225.0,
+      "endMs": 2950.0,
+      "timestampMs": null,
+      "confidence": 0.985727
+    },
+    {
+      "text": "Status:",
+      "startMs": 3155.0,
+      "endMs": 3940.0,
+      "timestampMs": null,
+      "confidence": 0.99935
+    },
+    {
+      "text": "unknown.",
+      "startMs": 3875.0,
+      "endMs": 4593.708333333334,
+      "timestampMs": null,
+      "confidence": 0.504688
+    }
+  ],
+  "2": [
+    {
+      "text": "Jobs",
+      "startMs": 68.33333333333303,
+      "endMs": 433.33333333333303,
+      "timestampMs": null,
+      "confidence": 0.530299
+    },
+    {
+      "text": "lost",
+      "startMs": 368.33333333333303,
+      "endMs": 673.333333333333,
+      "timestampMs": null,
+      "confidence": 0.951735
+    },
+    {
+      "text": "in",
+      "startMs": 608.333333333333,
+      "endMs": 773.333333333333,
+      "timestampMs": null,
+      "confidence": 0.955893
+    },
+    {
+      "text": "texts,",
+      "startMs": 708.333333333333,
+      "endMs": 1453.333333333333,
+      "timestampMs": null,
+      "confidence": 0.575473
+    },
+    {
+      "text": "notes,",
+      "startMs": 1388.333333333333,
+      "endMs": 1773.333333333333,
+      "timestampMs": null,
+      "confidence": 0.948047
+    },
+    {
+      "text": "sheets",
+      "startMs": 1908.333333333333,
+      "endMs": 2721.979166666666,
+      "timestampMs": null,
+      "confidence": 0.996816
+    }
+  ],
+  "3": [
+    {
+      "text": "No",
+      "startMs": 58.33333333333303,
+      "endMs": 203.33333333333303,
+      "timestampMs": null,
+      "confidence": 0.98347
+    },
+    {
+      "text": "proof",
+      "startMs": 138.33333333333303,
+      "endMs": 533.333333333333,
+      "timestampMs": null,
+      "confidence": 0.989955
+    },
+    {
+      "text": "of",
+      "startMs": 468.33333333333303,
+      "endMs": 733.333333333333,
+      "timestampMs": null,
+      "confidence": 0.98815
+    },
+    {
+      "text": "work",
+      "startMs": 668.333333333333,
+      "endMs": 1043.333333333333,
+      "timestampMs": null,
+      "confidence": 0.999447
+    }
+  ],
+  "4": [
+    {
+      "text": "Invoices",
+      "startMs": 118.33333333333394,
+      "endMs": 693.3333333333339,
+      "timestampMs": null,
+      "confidence": 0.999725
+    },
+    {
+      "text": "go",
+      "startMs": 628.3333333333339,
+      "endMs": 1213.333333333334,
+      "timestampMs": null,
+      "confidence": 0.984502
+    },
+    {
+      "text": "out",
+      "startMs": 1148.333333333334,
+      "endMs": 1543.333333333334,
+      "timestampMs": null,
+      "confidence": 0.997573
+    },
+    {
+      "text": "late",
+      "startMs": 1478.333333333334,
+      "endMs": 1670.3125,
+      "timestampMs": null,
+      "confidence": 0.998005
+    }
+  ],
+  "5": [
+    {
+      "text": "Meet",
+      "startMs": 28.33333333333212,
+      "endMs": 473.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.868722
+    },
+    {
+      "text": "Kordify",
+      "startMs": 408.3333333333321,
+      "endMs": 1174.979166666666,
+      "timestampMs": null,
+      "confidence": 0.339166
+    }
+  ],
+  "6": [
+    {
+      "text": "Dispatch",
+      "startMs": 51.66666666666788,
+      "endMs": 416.6666666666679,
+      "timestampMs": null,
+      "confidence": 0.96001
+    },
+    {
+      "text": "from",
+      "startMs": 671.6666666666679,
+      "endMs": 1056.6666666666679,
+      "timestampMs": null,
+      "confidence": 0.998795
+    },
+    {
+      "text": "the",
+      "startMs": 991.6666666666679,
+      "endMs": 1296.6666666666679,
+      "timestampMs": null,
+      "confidence": 0.998571
+    },
+    {
+      "text": "web",
+      "startMs": 1231.6666666666679,
+      "endMs": 1516.6666666666679,
+      "timestampMs": null,
+      "confidence": 0.740547
+    },
+    {
+      "text": "app",
+      "startMs": 1451.6666666666679,
+      "endMs": 1792.3125000000018,
+      "timestampMs": null,
+      "confidence": 0.991906
+    }
+  ],
+  "7": [
+    {
+      "text": "Works",
+      "startMs": 1035.0,
+      "endMs": 1590.0,
+      "timestampMs": null,
+      "confidence": 0.999033
+    },
+    {
+      "text": "offline,",
+      "startMs": 1525.0,
+      "endMs": 2280.0,
+      "timestampMs": null,
+      "confidence": 0.994702
+    },
+    {
+      "text": "syncs",
+      "startMs": 2445.0,
+      "endMs": 2740.0,
+      "timestampMs": null,
+      "confidence": 0.862758
+    },
+    {
+      "text": "later",
+      "startMs": 3655.0,
+      "endMs": 3855.125,
+      "timestampMs": null,
+      "confidence": 0.999786
+    }
+  ],
+  "8": [
+    {
+      "text": "Checklist.",
+      "startMs": 631.6666666666642,
+      "endMs": 1516.6666666666642,
+      "timestampMs": null,
+      "confidence": 0.981742
+    },
+    {
+      "text": "Photos.",
+      "startMs": 2221.6666666666642,
+      "endMs": 2906.6666666666642,
+      "timestampMs": null,
+      "confidence": 0.999407
+    },
+    {
+      "text": "Signature.",
+      "startMs": 3401.6666666666642,
+      "endMs": 4066.5416666666642,
+      "timestampMs": null,
+      "confidence": 0.992701
+    }
+  ],
+  "9": [
+    {
+      "text": "Job",
+      "startMs": 98.33333333333576,
+      "endMs": 433.33333333333576,
+      "timestampMs": null,
+      "confidence": 0.897389
+    },
+    {
+      "text": "done,",
+      "startMs": 408.33333333333576,
+      "endMs": 723.3333333333358,
+      "timestampMs": null,
+      "confidence": 0.972364
+    },
+    {
+      "text": "invoice",
+      "startMs": 1098.3333333333358,
+      "endMs": 1873.3333333333358,
+      "timestampMs": null,
+      "confidence": 0.997009
+    },
+    {
+      "text": "sent,",
+      "startMs": 2158.3333333333358,
+      "endMs": 2773.3333333333358,
+      "timestampMs": null,
+      "confidence": 0.998582
+    },
+    {
+      "text": "paid",
+      "startMs": 3298.3333333333358,
+      "endMs": 3917.416666666668,
+      "timestampMs": null,
+      "confidence": 0.999112
+    }
+  ],
+  "10": [
+    {
+      "text": "Request",
+      "startMs": 48.33333333333212,
+      "endMs": 523.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.926603
+    },
+    {
+      "text": "to",
+      "startMs": 458.3333333333321,
+      "endMs": 673.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.964796
+    },
+    {
+      "text": "paid.",
+      "startMs": 608.3333333333321,
+      "endMs": 1253.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.925842
+    },
+    {
+      "text": "One",
+      "startMs": 1188.3333333333321,
+      "endMs": 1323.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.968876
+    },
+    {
+      "text": "place.",
+      "startMs": 1258.3333333333321,
+      "endMs": 1843.3333333333321,
+      "timestampMs": null,
+      "confidence": 0.99613
+    }
+  ],
+  "11": [
+    {
+      "text": "Start",
+      "startMs": 65.0,
+      "endMs": 450.0,
+      "timestampMs": null,
+      "confidence": 0.882131
+    },
+    {
+      "text": "your",
+      "startMs": 385.0,
+      "endMs": 740.0,
+      "timestampMs": null,
+      "confidence": 0.998053
+    },
+    {
+      "text": "free",
+      "startMs": 675.0,
+      "endMs": 1030.0,
+      "timestampMs": null,
+      "confidence": 0.99831
+    },
+    {
+      "text": "trial",
+      "startMs": 965.0,
+      "endMs": 1400.0,
+      "timestampMs": null,
+      "confidence": 0.996079
+    }
+  ]
+}

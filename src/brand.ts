@@ -1,0 +1,45 @@
+// Website CSS verified 2026-10-26; snapshot: out/brand-source/site.css.
+// Warm paper backgrounds supplied by the user. Ink shades support light-theme contrast.
+export const brand = {
+  primary: "#ff4d4d",
+  primarySoft: "#c52f36",
+  secondary: "#2d5da1",
+  secondarySoft: "#2d5da1",
+  background: "#fdfbf7",
+  backgroundAlternate: "#f6f2ed",
+  surface: "#ffffff",
+  surfaceRaised: "#eee8df",
+  border: "#c9c0b5",
+  text: "#2d2d2d",
+  textMuted: "#665e55",
+  ink: "#2d2d2d",
+  white: "#ffffff",
+  black: "#000000",
+  paper: "#fdfbf7",
+  font: "Kalam",
+} as const;
+
+export const theme = {
+  bg: brand.background,
+  bgAlt: brand.backgroundAlternate,
+  surface: brand.surface,
+  surfaceRaised: brand.surfaceRaised,
+  border: brand.border,
+  text: brand.text,
+  muted: brand.textMuted,
+  accent: brand.primary,
+  accentText: brand.primarySoft,
+  accentSoft: brand.primarySoft,
+  blueSoft: brand.secondarySoft,
+  ink: brand.ink,
+  white: brand.white,
+  black: brand.black,
+  paper: brand.paper,
+  mood: {
+    problem: "#bc3038",
+    warm: brand.primary,
+    fix: brand.secondary,
+    warn: "#946000",
+    success: "#197541",
+  },
+} as const;
